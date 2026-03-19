@@ -4,7 +4,7 @@ defmodule SampleAppWeb.CustomComponents do
   def nav(assigns) do
     ~H"""
     <nav class="flex justify-between p-10 items-center">
-      <h1 class="text-4xl font-semibold">Sample App</h1>
+      <h1 class="text-4xl font-semibold">ChatterBox</h1>
 
       <div class="flex items-center gap-12">
         <ul class="flex items-center gap-5 *:my-auto *:cursor-pointer *:hover:text-orange-500 font-extralight *:duration-250">
