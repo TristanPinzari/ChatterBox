@@ -1,18 +1,5 @@
-# SampleApp
+# ChatterBox
 
-To start your Phoenix server:
+This is a basic clone of Twitter I made to learn Elixir Phoenix. It is hosted at [https://live-vacant-ringworm.gigalixirapp.com/](url)
 
-* Run `mix setup` to install and setup dependencies
-* Start Phoenix endpoint with `mix phx.server` or inside IEx with `iex -S mix phx.server`
-
-Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
-
-Ready to run in production? Please [check our deployment guides](https://hexdocs.pm/phoenix/deployment.html).
-
-## Learn more
-
-* Official website: https://www.phoenixframework.org/
-* Guides: https://hexdocs.pm/phoenix/overview.html
-* Docs: https://hexdocs.pm/phoenix
-* Forum: https://elixirforum.com/c/phoenix-forum
-* Source: https://github.com/phoenixframework/phoenix
+Gigalixir free tier only allows for one project so I cannot guarantee that link will work. Thanks for stopping by.
